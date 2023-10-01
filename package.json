@@ -28,6 +28,11 @@
   ],
   "author": "Kiser IT",
   "license": "MIT",
+  "repository": "github:kiserit/cachet",
+  "homepage": "https://github.com/kiserit/cachet",  
+  "bugs": {
+    "url": "https://github.com/kiserit/cachet/issues"
+  },  
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
     "@types/node": "18.11.9",
