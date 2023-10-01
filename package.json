@@ -1,6 +1,6 @@
 {
   "name": "@kiserit/cachet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware to cache assets",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
