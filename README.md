@@ -1,2 +1,2 @@
 # cachet
-Express middle ware to cache assets
+Express middleware to cache assets
