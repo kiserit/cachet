@@ -1,7 +1,7 @@
 {
   "name": "@kiserit/cachet",
   "version": "0.0.2",
-  "description": "Express middleware to cache assets",
+  "description": "Web server middleware to cache assets",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -23,6 +23,7 @@
     "cache buster",
     "cache busting",
     "express",
+    "fastify",
     "middleware"
   ],
   "author": "Kiser IT",
