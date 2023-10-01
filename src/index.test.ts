@@ -6,7 +6,8 @@ import cachet from './index';
 const cachetOptions = {
   param: 'v',
   cache: 'no-store',  
-  ext: ['js','css']
+  ext: ['js','css'],
+  version: '0.0.1',
 }
 
 const cachetHandler = cachet(cachetOptions)

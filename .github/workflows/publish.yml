@@ -1,4 +1,4 @@
-name: Publish a package to the npm registry
+name: Publish
 on:
   push:
     branches:
