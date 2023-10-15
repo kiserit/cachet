@@ -32,7 +32,7 @@ app.get("/sample.js", (req, res) => {
   res.sendFile('./public/sample.js');
 });
 
-app.listen(8000);
+app.listen(3000);
 ```
 
 Here's a sample Express app that uses Cachet on a specific route:
@@ -51,7 +51,7 @@ app.get("/sample.js", cachet(), (req, res) => {
   res.sendFile('./public/sample.js');
 });
 
-app.listen(8000);
+app.listen(3000);
 ```
 
 You can also `import cachet from '@kiserit/cachet'` if you prefer.
