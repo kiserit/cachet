@@ -5,6 +5,12 @@ Cachet redirects requests without a version parameter to the same location with 
 
 For example, The request `http://www.example.com/sample.js` will get redirected to `http://www.example.com/sample.js?v=1.0.0`.
 
+## Installation
+This is a Node.js module available through the npm registry. Installation is done using the npm install command:
+
+```
+npm install @kiserit/cachet
+```
 
 ## Get started
 
